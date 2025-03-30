@@ -15,7 +15,7 @@ This is a Django-based REST API for an e-commerce platform. It includes features
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/razia7012/e-commerce-apis.git
    cd e_commerce_api
    ```
 
